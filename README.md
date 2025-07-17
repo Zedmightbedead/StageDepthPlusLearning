@@ -1,3 +1,6 @@
+FORK: Trying to learn and improve/add to the StageDepthPlus shader.
+
+
 # CorgiFX
 
 CorgiFX is a collection of shaders primarily designed for Virtual Photography, utilizing the ReShade FX language.
